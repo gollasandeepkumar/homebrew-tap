@@ -8,7 +8,7 @@ cask "avatar-reminder" do
   homepage "https://gollasandeepkumar.github.io/AvatarReminder-releases/"
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Avatar Reminder App.app"
 
