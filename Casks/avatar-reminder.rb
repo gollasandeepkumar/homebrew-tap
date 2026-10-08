@@ -1,6 +1,6 @@
 cask "avatar-reminder" do
-  version "1.0.3"
-  sha256 "cca621485a0b6c2f87da4dc042ed935cb76f44fde3a57f1e8ecc22328dbc0ecf"
+  version "1.0.4"
+  sha256 "2dae17566edf81de273aa1bf3027b56242bbf1ce14d6d50fdc51a985ceec922c"
 
   url "https://github.com/gollasandeepkumar/AvatarReminder-releases/releases/download/v#{version}/AvatarReminderApp-#{version}.zip"
   name "Avatar Reminder App"
